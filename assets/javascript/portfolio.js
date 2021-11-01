@@ -17,13 +17,13 @@
             },
                 
             {
-                name: 'github',
-                link: 'http://github.com/Historyseupai'
+                name: 'Kz Edits',
+                link: 'https://discord.gg/M4tcfqs3Xy'
             },
 
             {
-                name: 'telegram',
-                link: 'https://t.me/Lozano'
+                name: 'Song',
+                link: 'https://www.youtube.com/watch?v=2qZCL0zcxLM&ab_channel=Only'
             },
         ];
          
